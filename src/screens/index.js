@@ -1,6 +1,8 @@
-// import LoginScreen from "./loginScreen";
+import LoginScreen from "./LoginScreen";
+import ForgotPasswordScreen from "./ForgotPasswordScreen";
 
-// export {
-//   // LoginScreen,
-//
-// };
+export {
+  LoginScreen,
+  ForgotPasswordScreen
+
+};

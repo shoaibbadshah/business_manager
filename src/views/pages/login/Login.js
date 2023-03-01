@@ -17,6 +17,10 @@ import {
 import CIcon from '@coreui/icons-react'
 
 const Login = () => {
+  // const handleSubmit = () => {
+  //
+  //   history.push('/forgotPassword');
+  // }
   return (
     <div className="c-app c-default-layout flex-row align-items-center">
       <CContainer>
@@ -46,7 +50,8 @@ const Login = () => {
                     </CInputGroup>
                     <CRow>
                       <CCol xs="6">
-                        <CButton color="primary" className="px-4">Login</CButton>
+
+                        <CButton color="primary" className="px-4" >Login</CButton>
                       </CCol>
                       <CCol xs="6" className="text-right">
                         <CButton color="link" className="px-0">Forgot password?</CButton>

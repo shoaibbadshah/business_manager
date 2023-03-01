@@ -1,0 +1,12 @@
+.submitBtn {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.submit {
+  background: linear-gradient(90deg, #ff7a00, #f90 94.74%);
+  border-radius: 100px;
+  color: white;
+  width: 135px;
+  box-shadow: none !important;
+}
